@@ -29,7 +29,8 @@ Deployed App: https://immense-escarpment-03497.herokuapp.com/
 
 An example screenshot of the application is below.
 
-![screenshot](assets/screenshot.jpg)
+![screenshot]![42AB80E7-71DD-4D64-A08E-AAC8EE5EC1C2_1_105_c](https://user-images.githubusercontent.com/80792502/132620733-90ce1e62-8036-496a-b172-ba9ea1e1079a.jpeg)
+
 
 ## License
 
